@@ -7,7 +7,7 @@ Want to sign up for my fictional, made-up, imaginary dev conference?!
 
 Thought so, open this up in a browser and fill out the required fields.
 
-Don't worry, I'll let you know if a necessary field has been mistyped or is left blank.
+Don't worry, I'll let you know if a necessary field has been mistyped or left blank.
 
 ### Extras
 
