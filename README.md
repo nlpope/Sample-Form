@@ -23,7 +23,7 @@ Clone the project - (https://github.com/nlpope/techdegree-project-3) -  and open
 
 ## Built With
 
-* [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The web programming language used
+* [JavaScript - jQuery](https://developer.mozilla.org/en-US/docs/Web/JavaScript) - The web programming language used
 
 ## Authors
 
